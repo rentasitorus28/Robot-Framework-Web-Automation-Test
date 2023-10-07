@@ -9,8 +9,8 @@ Programming Language : Python 3
 https://python.org
 
 # Library :
-Robot Framework
+Robot Framework:
 pip install robotframework
 
-Robot Framework Selenium Library
+Robot Framework Selenium Library:
 pip install robotframework-seleniumlibrary
